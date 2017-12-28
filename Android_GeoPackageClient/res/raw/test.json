@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "129385", "name": "Landshut-Nord", "barrier": null, "highway": "motorway_junction", "address": null, "place": null, "man_made": null, "other_tags": "\"TMC:cid_58:tabcd_1:Class\"=>\"Point\",\"TMC:cid_58:tabcd_1:Direction\"=>\"positive\",\"TMC:cid_58:tabcd_1:LCLversion\"=>\"8.00\",\"TMC:cid_58:tabcd_1:LocationCode\"=>\"12829\",\"TMC:cid_58:tabcd_1:NextLocationCode\"=>\"12830\",\"TMC:cid_58:tabcd_1:PrevLocationCode\"=>\"12828\"" }, "geometry": { "type": "Point", "coordinates": [ 12.1329255, 48.57329 ] } },
+{ "type": "Feature", "properties": { "osm_id": "129386", "name": "Landshut-Nord", "barrier": null, "highway": "motorway_junction", "address": null, "place": null, "man_made": null, "other_tags": "\"TMC:cid_58:tabcd_1:Class\"=>\"Point\",\"TMC:cid_58:tabcd_1:Direction\"=>\"negative\",\"TMC:cid_58:tabcd_1:LCLversion\"=>\"8.00\",\"TMC:cid_58:tabcd_1:LocationCode\"=>\"12829\",\"TMC:cid_58:tabcd_1:NextLocationCode\"=>\"12830\",\"TMC:cid_58:tabcd_1:PrevLocationCode\"=>\"12828\"" }, "geometry": { "type": "Point", "coordinates": [ 12.1343906, 48.5738399 ] } },
+{ "type": "Feature", "properties": { "osm_id": "129540", "name": null, "barrier": null, "highway": null, "address": null, "place": null, "man_made": null, "other_tags": "\"TMC:cid_58:tabcd_1:Class\"=>\"Point\",\"TMC:cid_58:tabcd_1:Direction\"=>\"negative\",\"TMC:cid_58:tabcd_1:LCLversion\"=>\"12.0\",\"TMC:cid_58:tabcd_1:LocationCode\"=>\"60770\",\"TMC:cid_58:tabcd_1:NextLocationCode\"=>\"12833\",\"TMC:cid_58:tabcd_1:PrevLocationCode\"=>\"8067\"" }, "geometry": { "type": "Point", "coordinates": [ 12.4545208, 48.6520162 ] } }
+]}
